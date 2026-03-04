@@ -6,9 +6,10 @@ public class Main {
         //Adicionar o scanner no código
         Scanner input = new Scanner(System.in);
         //Coleta do primeiro número
-        System.out.println("Primeiro número");
+        System.out.println("Primeiro número:");
         float primeiroVal = input.nextFloat();//Fazer em float porque não necessáriamente o usuário vai colocar um número inteiro
         //Coleta do segundo número
-
+        System.out.println("Segundo número:");
+        float segundoVal = input.nextFloat();
     }
 }
