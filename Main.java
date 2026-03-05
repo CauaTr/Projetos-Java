@@ -17,14 +17,24 @@ public class Main {
         System.out.println("Segundo número:");
         float segundoVal = input.nextFloat();
 
-
-        //Soma
-        System.out.println(primeiroVal + " + " + segundoVal + " = " + (primeiroVal+segundoVal));
-        //Subtração
-        System.out.println(primeiroVal + " - " + segundoVal + " = " + (primeiroVal-segundoVal));
-        //Multiplicação
-        System.out.println(primeiroVal + " x " + segundoVal + " = " + (primeiroVal*segundoVal));
-        //Divisão
-        System.out.println(primeiroVal + " / " + segundoVal + " = " + (primeiroVal/segundoVal));
+//Operação com base no valor de 'operador'
+switch (operador) {
+            //Soma
+            case '+':
+            System.out.println(primeiroVal + " + " + segundoVal + " = " + (primeiroVal + segundoVal));
+            break;
+            //Subtração
+            case '-':
+            System.out.println(primeiroVal + " - " + segundoVal + " = " + (primeiroVal - segundoVal));
+            break;
+            //Multiplicação
+            case '*':
+            System.out.println(primeiroVal + " x " + segundoVal + " = " + (primeiroVal * segundoVal));
+            break;
+            //Divisão
+            case '/':
+            System.out.println(primeiroVal + " / " + segundoVal + " = " + (primeiroVal / segundoVal));
+            break;
+        }
     }
 }
