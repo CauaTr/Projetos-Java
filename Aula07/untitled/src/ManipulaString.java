@@ -1,5 +1,5 @@
 public class ManipulaString {
-    static void main() {
+    public static void main(String[] args) {
         String teste = "Henrique Dias Pastor";
         String teste2 = "Henrique DIAs Pastor";
         //Conta a quantidade de elemento, mesmo se o espaço é vazio
