@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d233baa4-a089-4a6a-8494-84541b257d72" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Aula10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula10/untitled/src/Animal/Amimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula10/untitled/src/Animal/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula10/untitled/src/Animal/Habitat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula10/untitled/src/Animal/Habitat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula10/untitled/src/Animal/Mamifero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula10/untitled/src/Animal/Mamifero.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="3CiUg5dKtmJvmgDvxrl0TomQ63X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d233baa4-a089-4a6a-8494-84541b257d72" name="Changes" comment="" />
+      <created>1776867991787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776867991787</updated>
+    </task>
+    <servers />
+  </component>
+</project>
